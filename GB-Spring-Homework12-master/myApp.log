@@ -1,0 +1,13 @@
+мар. 10, 2024 8:38:44 PM MyLoggingAspect log
+INFO: Информация логирования: 
+мар. 10, 2024 8:38:44 PM MyLoggingAspect log
+INFO: Вызванный метод: getAllActs
+мар. 10, 2024 8:38:44 PM MyLoggingAspect log
+INFO: Класс: class ActServiceImpl
+мар. 10, 2024 8:38:44 PM MyLoggingAspect log
+INFO: Аргументы: []
+мар. 10, 2024 8:38:44 PM MyLoggingAspect log
+INFO: Метод отработал и вернул значение: []
+мар. 10, 2024 8:38:44 PM MyLoggingAspect log
+INFO: Конец блока логирования. 
+
